@@ -1,0 +1,14 @@
+ID=00613313
+WSTrustSTS=true
+OAuth=true
+SaasProvisioning=true
+Product=PingFederate
+Version=12.0
+EnforcementType=3
+Tier=Free
+IssueDate=2024-01-26
+ExpirationDate=2024-07-26
+DeploymentMethod=Docker
+Organization=Accenture - France
+SignCode=FF0F
+Signature=302D0215008B86415C519AAF47A3B48BD4A15AFA8F48E59B56021462D3D98FCC8951B92E9C1141560764F1B47F7097
